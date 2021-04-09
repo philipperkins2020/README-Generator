@@ -7,7 +7,7 @@ In this assignment I generated a ReadMe using node js. I ran inquirer for the us
 
 
 ## Usage
-![README-GENERATOR](https://www.youtube.com/watch?v=cPG9wrKUF2Y)
+![README-GENERATOR](https://youtu.be/cPG9wrKUF2Y)
 
 
 
