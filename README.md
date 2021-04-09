@@ -1,13 +1,13 @@
 
-# Generated Read me
+# README GENERATOR HW
 
 ## Description 
 
-In this assignment I generated a ReadMe using node js .
+In this assignment I generated a ReadMe using node js. I ran inquirer for the user to answer the questions in gitbash that you would normally find in a README. The generated README file that is generated from my code will be in output/README.MD.
 
 
 ## Usage
-
+![README-GENERATOR](https://youtu.be/cPG9wrKUF2Y)
 
 
 

@@ -1,7 +1,7 @@
-# gucci
+# Sports Stats
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
- tucci
+ A deep dive into sports analytics.
 ## Table of Contents 
 * [Installation](#installation) 
 * [Usage](#usage)
@@ -10,16 +10,16 @@
 * [Tests](#tests)
 * [Questions](#questions)
 ## Installation
-gucci
+Run the code
 ## Usage
-gucci
+They may add new sports stats.
 ## License
 MIT
 ## Contributing
-gucci
+Do not give opinions only stats.
 ## Tests
-gucci
+Make sure the data is correct for the stats.
 
 ## Questions
-gucci
-gucci
+philipperkins2020@gmail.com
+philipperkins2020@gmail.com
