@@ -7,9 +7,7 @@ In this assignment I generated a ReadMe using node js. I ran inquirer for the us
 
 
 ## Usage
-![README-GENERATOR]
-<iframe width="727" height="409" src="https://www.youtube.com/embed/cPG9wrKUF2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![README-GENERATOR](https://img.youtube.com/vi/cPG9wrKUF2Y/1.jpg)](https://www.youtube.com/watch?v=cPG9wrKUF2Y)
 
 
 
