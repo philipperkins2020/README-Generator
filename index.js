@@ -4,7 +4,8 @@ const fs = require('fs')
 const generatereadme = (response) =>
   `# ${response.Title}
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-## ${response.Description}
+## Description
+ ${response.Description}
 ## Table of Contents 
 * [Installation](#installation) 
 * [Usage](#usage)
@@ -63,7 +64,8 @@ inquirer
     {
       type: 'list',
       name: 'Licenses',
-      message: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None']
+      message:'What kind of license should your project have?',
+      choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None']
     },
     {
       type: 'input',
@@ -87,7 +89,7 @@ inquirer
 
   .then((response) =>{
   const readMe = generatereadme(response);
-    fs.writeFile('README.md', readMe, (err) =>
+    fs.writeFile('output/README.md', readMe, (err) =>
       err ? console.log(err) : console.log('Successfully created README.md!')
     );
   });
